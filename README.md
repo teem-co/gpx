@@ -55,7 +55,7 @@ Lorem ipsum.
 [issues-img]:https://img.shields.io/github/issues/ryansonshine/typescript-npm-package-template
 [issues-url]:https://github.com/ryansonshine/typescript-npm-package-template/issues
 [codecov-img]:https://codecov.io/gh/ryansonshine/typescript-npm-package-template/branch/main/graph/badge.svg
-[codecov-url]:https://codecov.io/gh/ryansonshine/typescript-npm-package-template
+[codecov-url]:https://codecov.io/gh/teem-co/gpx/graph/badge.svg?token=PC7W9PSFJ6
 [semantic-release-img]:https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
 [semantic-release-url]:https://github.com/semantic-release/semantic-release
 [commitizen-img]:https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
